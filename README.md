@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ashwin
-- 👀 I’m interested in coding and learning latest technologies. I got into coding just out of curiosity on how things work. My coding journey started with Java and later i learnt
+- 👀 I’m interested in coding and learning latest technologies. I got into coding out of curiosity. My coding journey started with Java and later i learnt
 Python and Javascript. I consider myself a beginner who is just exploring his way out.
 - 🌱 I’m currently learning Javascript and React.
 - 💞️ I’m looking to collaborate on opersource projects.
